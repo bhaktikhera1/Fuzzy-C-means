@@ -1,4 +1,4 @@
-# Fuzzy-C-means
+
 Type of Intensity Normalization : Fuzzy C Means
 # Fuzzy C Means
 
